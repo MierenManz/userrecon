@@ -1,3 +1,11 @@
+;----------------------------------------------------------------
+;|You may use this program for personal use.			|
+;|You are allowed to modify it but only if i get the credit	|
+;|for the idea and for the work i've put in.			|
+;|It does not matter how much of my code you use,		|
+;|BUT if you use any bit of my code, then give me credit	|
+;----------------------------------------------------------------
+
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
